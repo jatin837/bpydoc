@@ -5,3 +5,7 @@ a beautiful documentation generator for python
 ![Screenshot from 2021-07-10 09-28-30](https://user-images.githubusercontent.com/63631162/125151021-d796e580-e161-11eb-9158-21f83dd83679.png)
 # To this
 ![Screenshot from 2021-07-10 09-32-19](https://user-images.githubusercontent.com/63631162/125151030-e7162e80-e161-11eb-9d30-1a71de40baea.png)
+
+
+# RegExp used 
+![Screenshot from 2021-07-10 12-46-33](https://user-images.githubusercontent.com/63631162/125155378-066e8500-e17d-11eb-8864-bfa0d4ac126a.png)
