@@ -13,5 +13,11 @@ def read_requirements():
 
     return res, ver
 
+def get_classes_info(deps_name):
+    pass
 
-read_requirements()
+def get_functions_info(deps_name):
+    pass
+
+def get_data_info(deps_name):
+    pass
